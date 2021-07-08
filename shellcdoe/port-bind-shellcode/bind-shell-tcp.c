@@ -19,7 +19,7 @@
 
 int main()
 {
-    int resultfd, socketfd;
+    int resultfd, sockfd;
     int port = 11111;
 
     struct sockaddr_in my_addr;
